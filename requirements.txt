@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+scipy
+statsmodels
+sklearn
+tensorflow
+pmdarima
+skopt
+fbprophet
+tsfeatures
